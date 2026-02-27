@@ -128,10 +128,7 @@ This produces aggregated financial results across sessions.
 - Player EV leaderboards
 - Multi-session ledger summaries
 - Interactive HTML visualizations
-
-Screenshots:
-![EV Graph](assets/ev_graph.png)
-
+  
 ---
 
 ## Motivation
